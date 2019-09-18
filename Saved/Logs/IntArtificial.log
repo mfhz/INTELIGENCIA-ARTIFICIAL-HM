@@ -1,0 +1,1169 @@
+﻿Log file open, 09/18/19 11:06:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: IntArtificial
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.184893
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.209s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz, GPU: Intel(R) HD Graphics 5500
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.09.18-16.06.12:717][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.18-16.06.12:717][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.18-16.06.12:760][  0]LogHAL: Display: Platform has ~ 8 GB [8487571456 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.18-16.06.12:761][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.09.18-16.06.12:761][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.18-16.06.12:761][  0]LogInit: Computer: DESKTOP-F5SOVU5
+[2019.09.18-16.06.12:761][  0]LogInit: User: MartinHenriquez
+[2019.09.18-16.06.12:761][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.09.18-16.06.12:761][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.09.18-16.06.12:762][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.09.18-16.06.12:762][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.18-16.06.12:762][  0]LogMemory: Process Physical Memory: 101.01 MB used, 101.02 MB peak
+[2019.09.18-16.06.12:762][  0]LogMemory: Process Virtual Memory: 84.22 MB used, 84.22 MB peak
+[2019.09.18-16.06.12:762][  0]LogMemory: Physical Memory: 5195.66 MB used,  2898.72 MB free, 8094.38 MB total
+[2019.09.18-16.06.12:762][  0]LogMemory: Virtual Memory: 4618.84 MB used,  2898.72 MB free, 134217728.00 MB total
+[2019.09.18-16.06.12:792][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.09.18-16.06.12:792][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.09.18-16.06.13:495][  0]LogStreaming: Display: Took  0.702s to InitEngineTextLocalization.
+[2019.09.18-16.06.13:496][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.18-16.06.13:558][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.18-16.06.13:558][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.18-16.06.14:106][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.18-16.06.14:106][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.18-16.06.14:185][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 920M' (Feature Level 11_0)
+[2019.09.18-16.06.14:185][  0]LogD3D11RHI:       2020/0/4047 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.09.18-16.06.14:193][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2019.09.18-16.06.14:193][  0]LogD3D11RHI:       128/0/4047 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.09.18-16.06.14:197][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.18-16.06.14:197][  0]LogD3D11RHI:       0/0/4047 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.18-16.06.14:197][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.18-16.06.14:225][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.18-16.06.14:225][  0]LogD3D11RHI:     GPU DeviceId: 0x1299 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.18-16.06.14:225][  0]LogWindows: EnumDisplayDevices:
+[2019.09.18-16.06.14:226][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2019.09.18-16.06.14:226][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:1)
+[2019.09.18-16.06.14:227][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2019.09.18-16.06.14:227][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.09.18-16.06.14:227][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 920M
+[2019.09.18-16.06.14:227][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.09.18-16.06.14:227][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.09.18-16.06.14:227][  0]LogRHI: Texture pool is 1414 MB (70% of 2020 MB)
+[2019.09.18-16.06.14:274][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.18-16.06.14:296][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.09.18-16.06.14:298][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/Martin Henriquez/Desktop/UE4/InteligenciaArtificial/IntArtificial/Intermediate/Shaders/WorkingDirectory/12480/).
+[2019.09.18-16.06.14:298][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Martin Henriquez/AppData/Local/Temp/UnrealShaderWorkingDir/FB8CA2A14728232A8310BB9E765BCA8F/'.
+[2019.09.18-16.06.14:765][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.09.18-16.06.14:789][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.09.18-16.06.14:815][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.09.18-16.06.14:838][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.09.18-16.06.14:862][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.09.18-16.06.14:885][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.09.18-16.06.14:912][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.09.18-16.06.14:936][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.09.18-16.06.14:948][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.09.18-16.06.15:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.18-16.06.15:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.18-16.06.15:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.18-16.06.15:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.18-16.06.15:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.18-16.06.15:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.18-16.06.15:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.18-16.06.15:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.18-16.06.15:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.18-16.06.15:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.18-16.06.15:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.18-16.06.15:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.18-16.06.15:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.18-16.06.15:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.18-16.06.15:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.18-16.06.15:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.18-16.06.15:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.18-16.06.15:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.18-16.06.15:114][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.09.18-16.06.15:194][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.09.18-16.06.15:194][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.09.18-16.06.15:240][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.09.18-16.06.15:240][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.09.18-16.06.15:260][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.09.18-16.06.15:281][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.09.18-16.06.15:303][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.09.18-16.06.15:323][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.09.18-16.06.15:337][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.09.18-16.06.15:337][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.18-16.06.15:427][  0]LogXGEController: Cleaning working directory: C:/Users/Martin Henriquez/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.09.18-16.06.15:427][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.18-16.06.15:427][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.18-16.06.15:427][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.18-16.06.16:636][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.18-16.06.16:756][  0]LogDerivedDataCache: Loaded boot cache 0.12s 71MB C:/Users/Martin Henriquez/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.09.18-16.06.16:756][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Martin Henriquez/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.09.18-16.06.16:757][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Martin Henriquez/Desktop/UE4/InteligenciaArtificial/IntArtificial/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.18-16.06.16:757][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.18-16.06.16:757][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Martin Henriquez/Desktop/UE4/InteligenciaArtificial/IntArtificial/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.18-16.06.16:757][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.18-16.06.16:785][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.18-16.06.16:798][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Martin Henriquez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.18-16.06.16:798][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.18-16.06.16:798][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.18-16.06.16:833][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.18-16.06.16:835][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.18-16.06.16:836][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.18-16.06.16:952][  0]LogAssetRegistry: FAssetRegistry took 0.0304 seconds to start up
+[2019.09.18-16.06.17:497][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.18-16.06.17:689][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.09.18-16.06.17:693][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.09.18-16.06.17:693][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.18-16.06.17:693][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.18-16.06.17:693][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.09.18-16.06.17:717][  0]LogNetVersion: IntArtificial 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2456704199)
+[2019.09.18-16.06.18:422][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.108089 seconds
+[2019.09.18-16.06.18:430][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.09.18-16.06.18:430][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.09.18-16.06.18:430][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.18-16.06.19:551][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.18-16.06.19:564][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.18-16.06.19:737][  0]SourceControl: Source control is disabled
+[2019.09.18-16.06.19:737][  0]SourceControl: Source control is disabled
+[2019.09.18-16.06.19:738][  0]SourceControl: Source control is disabled
+[2019.09.18-16.06.19:740][  0]SourceControl: Source control is disabled
+[2019.09.18-16.06.19:932][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.18-16.06.19:995][  0]LogOcInput: OculusInput pre-init called
+[2019.09.18-16.06.20:070][  0]LogEngine: Initializing Engine...
+[2019.09.18-16.06.20:071][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.18-16.06.20:072][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.09.18-16.06.20:072][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.09.18-16.06.20:072][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.09.18-16.06.20:072][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.09.18-16.06.20:373][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.18-16.06.20:400][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.18-16.06.20:427][  0]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.18-16.06.20:498][  0]LogInit: FAudioDevice initialized.
+[2019.09.18-16.06.20:499][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.18-16.06.20:788][  0]LogDerivedDataCache: Saved boot cache 0.29s 71MB C:/Users/Martin Henriquez/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.09.18-16.06.20:810][  0]LogInit: Texture streaming: Enabled
+[2019.09.18-16.06.20:842][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.18-16.06.20:874][  0]LogInit: Transaction tracking system initialized
+[2019.09.18-16.06.20:911][  0]BlueprintLog: New page: Editor Load
+[2019.09.18-16.06.21:010][  0]LocalizationService: Localization service is disabled
+[2019.09.18-16.06.21:551][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.18-16.06.21:551][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.18-16.06.21:551][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.09.18-16.06.21:551][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.09.18-16.06.21:551][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.09.18-16.06.21:552][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.09.18-16.06.21:552][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.09.18-16.06.21:813][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Martin Henriquez/Desktop/UE4/InteligenciaArtificial/IntArtificial/Content/' took 0.04s
+[2019.09.18-16.06.21:813][  0]SourceControl: Source control is disabled
+[2019.09.18-16.06.21:814][  0]LightingResults: New page: Lighting Build
+[2019.09.18-16.06.21:819][  0]MapCheck: New page: Map Check
+[2019.09.18-16.06.21:819][  0]LightingResults: New page: Lighting Build
+[2019.09.18-16.06.23:180][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.18-16.06.23:209][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.18-16.06.23:256][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.18-16.06.23:360][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 103.971ms to complete.
+[2019.09.18-16.06.23:360][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.547
+[2019.09.18-16.06.23:469][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.18-16.06.23:480][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.18-16.06.23:490][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.18-16.06.23:500][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.18-16.06.23:508][  0]LogCollectionManager: Loaded 0 collections in 0.002394 seconds
+[2019.09.18-16.06.23:551][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Martin Henriquez/Desktop/UE4/InteligenciaArtificial/IntArtificial/Saved/Collections/' took 0.01s
+[2019.09.18-16.06.23:551][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Martin Henriquez/Desktop/UE4/InteligenciaArtificial/IntArtificial/Content/Developers/MartinHenriquez/Collections/' took 0.01s
+[2019.09.18-16.06.23:551][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Martin Henriquez/Desktop/UE4/InteligenciaArtificial/IntArtificial/Content/Collections/' took 0.01s
+[2019.09.18-16.06.23:551][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.09.18-16.06.23:563][  0]LogContentBrowser: Native class hierarchy populated in 0.0117 seconds. Added 2572 classes and 603 folders.
+[2019.09.18-16.06.23:571][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.18-16.06.23:630][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.18-16.06.23:647][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.09.18-16.06.23:668][  0]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.18-16.06.23:674][  0]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.18-16.06.23:680][  0]LogSlate: Took 0.000411 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.18-16.06.23:780][  0]LogRenderer: Reallocating scene render targets to support 964x400 Format 9 NumSamples 1 (Frame:1).
+[2019.09.18-16.06.24:020][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.18-16.06.24:020][  0]LogLoad: (Engine Initialization) Total time: 13.60 seconds
+[2019.09.18-16.06.24:020][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.18-16.06.24:065][  0]LogContentStreaming: Texture pool size now 800 MB
+[2019.09.18-16.06.24:079][  0]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.18-16.06.24:430][  2]LogAssetRegistry: Asset discovery search completed in 7.5006 seconds
+[2019.09.18-16.06.24:432][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.09.18-16.06.24:432][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000086 seconds (updated 0 objects)
+[2019.09.18-16.06.25:419][  5]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.18-16.08.19:709][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.18-16.08.19:792][468]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.18-16.08.19:830][468]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.18-16.08.19:831][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.18-16.08.19:856][468]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 18, 2019, 6:08:19 AM)
+[2019.09.18-16.08.19:856][468]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.18-16.08.19:897][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040834s)
+[2019.09.18-16.08.19:899][468]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.18-16.08.19:901][468]LogPlayLevel: PIE: World Init took: (0.003692s)
+[2019.09.18-16.08.19:901][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.045139s)
+[2019.09.18-16.08.19:945][468]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.18-16.08.19:975][468]LogInit: FAudioDevice initialized.
+[2019.09.18-16.08.20:042][468]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.18-16.08.20:060][468]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.09.18-11.08.20
+[2019.09.18-16.08.20:085][468]LogWorld: Bringing up level for play took: 0.030850
+[2019.09.18-16.08.20:121][468]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 10 classes and 0 folders.
+[2019.09.18-16.08.20:128][468]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.118
+[2019.09.18-16.08.20:128][468]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.18-16.08.20:147][468]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 2317.002441
+[2019.09.18-16.08.25:073][755]LogBlueprintUserMessages: [Task_MoverySaludar_C_0] No te alejes
+[2019.09.18-16.08.25:089][756]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:105][757]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:122][758]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:139][759]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:156][760]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:173][761]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:189][762]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:205][763]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:223][764]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:239][765]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:256][766]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:273][767]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:289][768]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:306][769]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:322][770]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:339][771]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:356][772]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:372][773]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:389][774]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:406][775]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:422][776]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:439][777]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:456][778]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:472][779]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:489][780]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:506][781]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:522][782]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:539][783]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:556][784]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:572][785]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:589][786]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:606][787]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:622][788]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:639][789]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:656][790]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:673][791]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:689][792]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:706][793]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:723][794]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:740][795]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:756][796]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:773][797]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:789][798]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:806][799]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:822][800]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:839][801]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:856][802]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:872][803]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:889][804]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:906][805]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:922][806]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:939][807]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:956][808]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:972][809]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.25:989][810]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:006][811]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:022][812]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:039][813]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:056][814]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:072][815]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:089][816]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:106][817]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:123][818]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:139][819]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:156][820]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:172][821]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:189][822]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:207][823]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:222][824]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:239][825]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:256][826]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:272][827]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:289][828]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:306][829]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:323][830]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:339][831]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:356][832]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:372][833]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:389][834]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:406][835]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:423][836]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:439][837]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:456][838]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:472][839]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:489][840]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:506][841]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:523][842]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:539][843]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:556][844]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:573][845]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:589][846]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:606][847]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:622][848]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:639][849]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:656][850]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:673][851]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:689][852]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:706][853]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:722][854]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:739][855]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:756][856]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:773][857]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:789][858]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:806][859]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:822][860]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:839][861]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.010017
+[2019.09.18-16.08.26:856][862]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.56179
+[2019.09.18-16.08.26:872][863]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 86.666939
+[2019.09.18-16.08.26:889][864]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 88.325119
+[2019.09.18-16.08.26:906][865]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 90.53875
+[2019.09.18-16.08.26:922][866]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 93.311081
+[2019.09.18-16.08.26:939][867]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 96.641685
+[2019.09.18-16.08.26:956][868]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 100.533958
+[2019.09.18-16.08.26:973][869]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 104.987335
+[2019.09.18-16.08.26:989][870]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 109.998161
+[2019.09.18-16.08.27:006][871]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 115.561295
+[2019.09.18-16.08.27:023][872]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 121.668945
+[2019.09.18-16.08.27:039][873]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 128.315689
+[2019.09.18-16.08.27:056][874]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 135.493225
+[2019.09.18-16.08.27:073][875]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 143.191544
+[2019.09.18-16.08.27:089][876]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 151.400223
+[2019.09.18-16.08.27:106][877]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 160.104813
+[2019.09.18-16.08.27:123][878]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 169.283722
+[2019.09.18-16.08.27:139][879]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 178.803085
+[2019.09.18-16.08.27:156][880]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 188.255829
+[2019.09.18-16.08.27:173][881]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 197.644287
+[2019.09.18-16.08.27:190][882]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 206.942657
+[2019.09.18-16.08.27:206][883]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 216.150101
+[2019.09.18-16.08.27:223][884]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 225.257523
+[2019.09.18-16.08.27:240][885]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 234.248825
+[2019.09.18-16.08.27:256][886]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 243.118561
+[2019.09.18-16.08.27:273][887]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 251.8685
+[2019.09.18-16.08.27:289][888]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 260.483063
+[2019.09.18-16.08.27:306][889]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 268.974792
+[2019.09.18-16.08.27:323][890]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 277.34314
+[2019.09.18-16.08.27:340][891]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 285.593201
+[2019.09.18-16.08.27:356][892]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 293.729828
+[2019.09.18-16.08.27:373][893]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 301.759003
+[2019.09.18-16.08.27:389][894]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 309.692566
+[2019.09.18-16.08.27:406][895]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 317.551178
+[2019.09.18-16.08.27:423][896]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 325.355469
+[2019.09.18-16.08.27:439][897]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 333.111603
+[2019.09.18-16.08.27:456][898]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 340.827057
+[2019.09.18-16.08.27:473][899]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 348.510803
+[2019.09.18-16.08.27:490][900]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 356.170288
+[2019.09.18-16.08.27:506][901]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 363.814697
+[2019.09.18-16.08.27:523][902]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 371.454712
+[2019.09.18-16.08.27:540][903]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 379.09845
+[2019.09.18-16.08.27:556][904]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 386.739319
+[2019.09.18-16.08.27:573][905]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 394.363373
+[2019.09.18-16.08.27:590][906]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 401.959015
+[2019.09.18-16.08.27:606][907]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 410.331146
+[2019.09.18-16.08.27:623][908]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 419.223999
+[2019.09.18-16.08.27:639][909]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 428.458557
+[2019.09.18-16.08.27:656][910]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 437.91037
+[2019.09.18-16.08.27:673][911]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 447.499573
+[2019.09.18-16.08.27:690][912]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 457.172516
+[2019.09.18-16.08.27:706][913]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 466.898041
+[2019.09.18-16.08.27:723][914]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 476.651154
+[2019.09.18-16.08.27:740][915]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 486.423065
+[2019.09.18-16.08.27:756][916]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 496.208344
+[2019.09.18-16.08.27:773][917]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 506.005341
+[2019.09.18-16.08.27:790][918]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 515.984436
+[2019.09.18-16.08.27:806][919]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 525.972473
+[2019.09.18-16.08.27:823][920]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 535.870728
+[2019.09.18-16.08.27:839][921]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 545.632324
+[2019.09.18-16.08.27:856][922]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 555.24292
+[2019.09.18-16.08.27:872][923]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 564.706909
+[2019.09.18-16.08.27:889][924]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 574.039185
+[2019.09.18-16.08.27:906][925]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 583.258545
+[2019.09.18-16.08.27:922][926]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 592.384766
+[2019.09.18-16.08.27:939][927]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 601.436951
+[2019.09.18-16.08.27:956][928]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 610.432556
+[2019.09.18-16.08.27:972][929]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 619.386414
+[2019.09.18-16.08.27:989][930]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 628.311218
+[2019.09.18-16.08.28:006][931]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 637.217712
+[2019.09.18-16.08.28:022][932]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 646.114868
+[2019.09.18-16.08.28:039][933]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 655.009827
+[2019.09.18-16.08.28:056][934]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 663.908264
+[2019.09.18-16.08.28:072][935]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 672.814819
+[2019.09.18-16.08.28:089][936]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 681.732971
+[2019.09.18-16.08.28:106][937]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 690.668762
+[2019.09.18-16.08.28:122][938]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 699.618103
+[2019.09.18-16.08.28:139][939]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 708.585449
+[2019.09.18-16.08.29:389][ 14]LogBlueprintUserMessages: [Task_MoverySaludar_C_0] No te alejes
+[2019.09.18-16.08.29:406][ 15]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:423][ 16]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:439][ 17]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:456][ 18]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:473][ 19]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:489][ 20]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:506][ 21]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:522][ 22]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:539][ 23]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:556][ 24]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:572][ 25]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:589][ 26]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:606][ 27]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:622][ 28]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:639][ 29]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:656][ 30]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:673][ 31]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:689][ 32]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:706][ 33]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:723][ 34]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:739][ 35]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:756][ 36]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:773][ 37]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:789][ 38]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:806][ 39]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:822][ 40]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:839][ 41]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:856][ 42]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:873][ 43]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:889][ 44]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:906][ 45]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:923][ 46]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:939][ 47]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:956][ 48]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.598671
+[2019.09.18-16.08.29:973][ 49]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.848305
+[2019.09.18-16.08.29:989][ 50]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 85.356071
+[2019.09.18-16.08.30:006][ 51]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 86.140221
+[2019.09.18-16.08.30:023][ 52]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 86.621193
+[2019.09.18-16.08.30:039][ 53]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 86.866768
+[2019.09.18-16.08.30:056][ 54]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 86.947083
+[2019.09.18-16.08.30:073][ 55]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 86.938576
+[2019.09.18-16.08.30:089][ 56]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 86.925995
+[2019.09.18-16.08.30:106][ 57]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 87.003441
+[2019.09.18-16.08.30:123][ 58]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 87.274117
+[2019.09.18-16.08.30:139][ 59]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 87.848763
+[2019.09.18-16.08.30:156][ 60]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 88.843506
+[2019.09.18-16.08.30:173][ 61]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 90.372192
+[2019.09.18-16.08.30:189][ 62]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 92.544502
+[2019.09.18-16.08.30:206][ 63]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 95.457405
+[2019.09.18-16.08.30:223][ 64]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 99.190575
+[2019.09.18-16.08.30:239][ 65]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 103.802826
+[2019.09.18-16.08.30:256][ 66]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 109.332237
+[2019.09.18-16.08.30:272][ 67]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 115.488739
+[2019.09.18-16.08.30:289][ 68]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 122.139481
+[2019.09.18-16.08.30:306][ 69]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 129.210678
+[2019.09.18-16.08.30:323][ 70]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 136.639023
+[2019.09.18-16.08.30:339][ 71]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 144.371033
+[2019.09.18-16.08.30:356][ 72]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 152.361572
+[2019.09.18-16.08.30:372][ 73]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 160.573135
+[2019.09.18-16.08.30:389][ 74]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 168.974243
+[2019.09.18-16.08.30:406][ 75]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 177.538666
+[2019.09.18-16.08.30:422][ 76]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 186.24411
+[2019.09.18-16.08.30:440][ 77]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 195.072281
+[2019.09.18-16.08.30:456][ 78]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 204.007095
+[2019.09.18-16.08.30:473][ 79]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 213.03569
+[2019.09.18-16.08.30:489][ 80]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 222.146957
+[2019.09.18-16.08.30:506][ 81]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 231.330887
+[2019.09.18-16.08.30:523][ 82]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 240.579453
+[2019.09.18-16.08.30:539][ 83]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 249.885574
+[2019.09.18-16.08.30:556][ 84]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 259.243134
+[2019.09.18-16.08.30:573][ 85]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 268.646667
+[2019.09.18-16.08.30:590][ 86]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 278.091553
+[2019.09.18-16.08.30:606][ 87]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 287.563538
+[2019.09.18-16.08.30:623][ 88]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 297.030487
+[2019.09.18-16.08.30:639][ 89]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 306.464783
+[2019.09.18-16.08.30:657][ 90]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 315.847565
+[2019.09.18-16.08.30:673][ 91]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 325.160767
+[2019.09.18-16.08.30:689][ 92]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 334.395447
+[2019.09.18-16.08.30:706][ 93]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 343.553497
+[2019.09.18-16.08.30:723][ 94]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 352.651276
+[2019.09.18-16.08.30:739][ 95]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 361.70694
+[2019.09.18-16.08.30:756][ 96]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 370.737305
+[2019.09.18-16.08.30:773][ 97]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 379.753326
+[2019.09.18-16.08.30:790][ 98]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 388.766083
+[2019.09.18-16.08.30:806][ 99]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 397.784363
+[2019.09.18-16.08.30:823][100]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 406.814148
+[2019.09.18-16.08.30:839][101]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 415.860474
+[2019.09.18-16.08.30:856][102]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 424.92691
+[2019.09.18-16.08.30:872][103]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 434.0159
+[2019.09.18-16.08.30:889][104]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 443.128998
+[2019.09.18-16.08.30:906][105]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 452.267731
+[2019.09.18-16.08.30:923][106]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 461.432343
+[2019.09.18-16.08.30:940][107]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 470.623199
+[2019.09.18-16.08.30:956][108]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 479.839813
+[2019.09.18-16.08.30:972][109]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 489.082306
+[2019.09.18-16.08.30:989][110]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 498.349579
+[2019.09.18-16.08.31:006][111]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 507.641815
+[2019.09.18-16.08.31:023][112]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 516.957703
+[2019.09.18-16.08.31:040][113]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 526.296265
+[2019.09.18-16.08.31:056][114]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 535.657043
+[2019.09.18-16.08.31:073][115]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 545.03894
+[2019.09.18-16.08.31:089][116]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 554.441284
+[2019.09.18-16.08.31:106][117]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 563.338501
+[2019.09.18-16.08.31:123][118]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 571.712585
+[2019.09.18-16.08.31:139][119]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 579.595337
+[2019.09.18-16.08.31:156][120]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 587.043884
+[2019.09.18-16.08.31:173][121]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 594.124695
+[2019.09.18-16.08.31:189][122]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 600.904968
+[2019.09.18-16.08.31:206][123]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 607.447388
+[2019.09.18-16.08.31:223][124]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 611.925903
+[2019.09.18-16.08.31:239][125]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 614.855957
+[2019.09.18-16.08.31:256][126]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 616.633423
+[2019.09.18-16.08.31:273][127]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.557983
+[2019.09.18-16.08.31:290][128]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:306][129]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:322][130]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:339][131]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:356][132]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:373][133]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:389][134]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:406][135]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:423][136]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:439][137]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:456][138]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:473][139]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:490][140]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:506][141]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:523][142]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:540][143]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:556][144]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:573][145]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:590][146]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:606][147]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:623][148]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:640][149]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:656][150]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:673][151]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:689][152]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:706][153]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:722][154]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:739][155]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:756][156]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:773][157]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:789][158]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:806][159]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:823][160]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:839][161]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:859][162]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:873][163]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:889][164]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:906][165]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:923][166]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:939][167]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:956][168]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:973][169]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.31:989][170]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.32:006][171]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.32:023][172]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.32:040][173]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.32:056][174]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.32:073][175]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.32:089][176]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.32:106][177]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.32:122][178]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.32:139][179]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.32:156][180]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.32:172][181]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.32:189][182]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.32:206][183]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.32:223][184]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.32:240][185]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.32:256][186]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.32:273][187]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.32:290][188]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.32:306][189]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.32:323][190]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.32:339][191]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.32:356][192]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.32:373][193]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 617.853943
+[2019.09.18-16.08.32:390][194]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 618.297302
+[2019.09.18-16.08.32:406][195]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 618.752136
+[2019.09.18-16.08.32:423][196]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 619.226685
+[2019.09.18-16.08.32:440][197]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 619.730896
+[2019.09.18-16.08.32:456][198]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 620.277649
+[2019.09.18-16.08.32:473][199]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 620.875183
+[2019.09.18-16.08.32:489][200]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 621.538025
+[2019.09.18-16.08.32:506][201]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 622.279907
+[2019.09.18-16.08.32:523][202]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 623.115784
+[2019.09.18-16.08.32:540][203]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 624.061401
+[2019.09.18-16.08.32:556][204]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 625.133667
+[2019.09.18-16.08.32:573][205]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 626.350586
+[2019.09.18-16.08.32:590][206]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 628.668213
+[2019.09.18-16.08.32:606][207]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 631.972168
+[2019.09.18-16.08.32:624][208]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 634.172363
+[2019.09.18-16.08.32:640][209]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 635.536926
+[2019.09.18-16.08.32:656][210]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 636.276428
+[2019.09.18-16.08.32:673][211]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 636.552307
+[2019.09.18-16.08.32:690][212]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 636.552307
+[2019.09.18-16.08.32:706][213]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 636.552307
+[2019.09.18-16.08.32:722][214]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 636.552307
+[2019.09.18-16.08.32:739][215]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 636.552307
+[2019.09.18-16.08.32:756][216]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 636.552307
+[2019.09.18-16.08.32:773][217]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 636.552307
+[2019.09.18-16.08.32:790][218]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 636.552307
+[2019.09.18-16.08.32:806][219]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 636.552307
+[2019.09.18-16.08.32:823][220]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 636.552307
+[2019.09.18-16.08.32:839][221]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 636.552307
+[2019.09.18-16.08.32:856][222]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 636.552307
+[2019.09.18-16.08.32:872][223]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 636.552307
+[2019.09.18-16.08.32:890][224]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 636.552307
+[2019.09.18-16.08.32:906][225]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 636.552307
+[2019.09.18-16.08.32:923][226]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 636.552307
+[2019.09.18-16.08.32:940][227]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 636.552307
+[2019.09.18-16.08.32:956][228]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 636.552307
+[2019.09.18-16.08.32:973][229]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 636.552307
+[2019.09.18-16.08.32:990][230]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 636.552307
+[2019.09.18-16.08.33:006][231]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 637.028687
+[2019.09.18-16.08.33:023][232]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 637.981873
+[2019.09.18-16.08.33:040][233]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 639.411621
+[2019.09.18-16.08.33:056][234]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 641.315247
+[2019.09.18-16.08.33:073][235]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 643.690369
+[2019.09.18-16.08.33:090][236]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 646.533081
+[2019.09.18-16.08.33:106][237]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 649.83606
+[2019.09.18-16.08.33:123][238]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 653.592041
+[2019.09.18-16.08.33:140][239]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 657.789612
+[2019.09.18-16.08.33:157][240]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 662.410706
+[2019.09.18-16.08.33:173][241]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 667.430969
+[2019.09.18-16.08.33:190][242]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 670.666077
+[2019.09.18-16.08.33:206][243]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 672.583679
+[2019.09.18-16.08.33:223][244]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 673.531311
+[2019.09.18-16.08.33:240][245]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 673.766113
+[2019.09.18-16.08.33:256][246]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 673.766113
+[2019.09.18-16.08.33:273][247]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 673.766113
+[2019.09.18-16.08.33:289][248]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 673.766113
+[2019.09.18-16.08.33:306][249]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 673.766113
+[2019.09.18-16.08.33:323][250]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 673.766113
+[2019.09.18-16.08.33:340][251]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 673.766113
+[2019.09.18-16.08.33:356][252]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 673.766113
+[2019.09.18-16.08.33:373][253]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 673.766113
+[2019.09.18-16.08.33:389][254]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 673.766113
+[2019.09.18-16.08.33:406][255]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 673.766113
+[2019.09.18-16.08.33:423][256]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 673.766113
+[2019.09.18-16.08.33:439][257]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 673.766113
+[2019.09.18-16.08.33:456][258]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 673.766113
+[2019.09.18-16.08.33:473][259]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 673.766113
+[2019.09.18-16.08.33:489][260]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 673.766113
+[2019.09.18-16.08.33:506][261]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 673.766113
+[2019.09.18-16.08.33:523][262]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 673.766113
+[2019.09.18-16.08.33:540][263]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 673.766113
+[2019.09.18-16.08.33:556][264]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 673.766113
+[2019.09.18-16.08.33:573][265]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 673.766113
+[2019.09.18-16.08.33:590][266]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 673.766113
+[2019.09.18-16.08.33:606][267]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 673.766113
+[2019.09.18-16.08.33:624][268]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 674.114014
+[2019.09.18-16.08.33:639][269]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 674.810608
+[2019.09.18-16.08.33:656][270]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 675.857849
+[2019.09.18-16.08.33:673][271]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 677.25824
+[2019.09.18-16.08.33:689][272]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 679.015442
+[2019.09.18-16.08.33:706][273]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 681.134033
+[2019.09.18-16.08.33:723][274]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 683.618713
+[2019.09.18-16.08.33:740][275]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 685.092468
+[2019.09.18-16.08.33:756][276]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 685.818481
+[2019.09.18-16.08.33:773][277]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 685.99353
+[2019.09.18-16.08.33:789][278]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 685.99353
+[2019.09.18-16.08.33:806][279]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 685.99353
+[2019.09.18-16.08.33:823][280]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 685.99353
+[2019.09.18-16.08.33:839][281]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 685.99353
+[2019.09.18-16.08.33:856][282]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 685.99353
+[2019.09.18-16.08.33:873][283]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 685.99353
+[2019.09.18-16.08.33:889][284]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 685.99353
+[2019.09.18-16.08.33:906][285]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 685.99353
+[2019.09.18-16.08.33:923][286]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 685.99353
+[2019.09.18-16.08.33:939][287]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 685.99353
+[2019.09.18-16.08.33:956][288]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 685.99353
+[2019.09.18-16.08.33:973][289]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 685.99353
+[2019.09.18-16.08.33:990][290]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 686.351563
+[2019.09.18-16.08.34:006][291]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 687.06842
+[2019.09.18-16.08.34:023][292]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 688.145874
+[2019.09.18-16.08.34:040][293]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 689.586365
+[2019.09.18-16.08.34:056][294]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 691.393311
+[2019.09.18-16.08.34:073][295]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 693.570923
+[2019.09.18-16.08.34:090][296]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 694.809265
+[2019.09.18-16.08.34:106][297]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 695.354126
+[2019.09.18-16.08.34:123][298]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 695.354126
+[2019.09.18-16.08.34:140][299]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 695.354126
+[2019.09.18-16.08.34:156][300]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 695.354126
+[2019.09.18-16.08.34:173][301]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 695.354126
+[2019.09.18-16.08.34:189][302]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 695.354126
+[2019.09.18-16.08.34:206][303]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 695.354126
+[2019.09.18-16.08.34:223][304]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 695.354126
+[2019.09.18-16.08.34:239][305]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 695.354126
+[2019.09.18-16.08.34:256][306]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 695.71936
+[2019.09.18-16.08.34:273][307]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 696.450623
+[2019.09.18-16.08.34:290][308]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 697.550415
+[2019.09.18-16.08.34:306][309]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 699.019653
+[2019.09.18-16.08.34:323][310]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 700.862305
+[2019.09.18-16.08.35:556][384]LogBlueprintUserMessages: [Task_MoverySaludar_C_0] No te alejes
+[2019.09.18-16.08.35:573][385]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.215607
+[2019.09.18-16.08.35:589][386]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.215607
+[2019.09.18-16.08.35:606][387]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.215607
+[2019.09.18-16.08.35:623][388]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.215607
+[2019.09.18-16.08.35:639][389]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.215607
+[2019.09.18-16.08.35:656][390]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.215607
+[2019.09.18-16.08.35:673][391]LogBlueprintUserMessages: [Decorator_VerificarDistancia_C_0] 84.215607
+[2019.09.18-16.08.35:675][391]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.18-16.08.35:679][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.18-16.08.35:718][391]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.18-16.08.35:718][391]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.18-16.08.35:747][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.18-16.08.35:774][392]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.09.18-16.08.39:699][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.18-16.10.05:323][130]LogSlate: Window 'IntArtificial - Unreal Editor' being destroyed
+[2019.09.18-16.10.05:324][130]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.18-16.10.05:576][131]Cmd: QUIT_EDITOR
+[2019.09.18-16.10.05:981][131]LogExit: Preparing to exit.
+[2019.09.18-16.10.06:705][131]LogExit: Editor shut down
+[2019.09.18-16.10.06:705][131]LogExit: Transaction tracking system shut down
+[2019.09.18-16.10.07:186][131]LogExit: Object subsystem successfully closed.
+[2019.09.18-16.10.07:207][131]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.09.18-16.10.07:211][131]LogD3D11RHI: Shutdown
+[2019.09.18-16.10.07:211][131]LogD3D11RHI: CleanupD3DDevice
+[2019.09.18-16.10.07:212][131]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.09.18-16.10.07:240][131]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (614)
+[2019.09.18-16.10.07:240][131]LogModuleManager: Shutting down and abandoning module Voice (612)
+[2019.09.18-16.10.07:241][131]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2019.09.18-16.10.07:241][131]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2019.09.18-16.10.07:241][131]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2019.09.18-16.10.07:243][131]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2019.09.18-16.10.07:243][131]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2019.09.18-16.10.07:243][131]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2019.09.18-16.10.07:243][131]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.09.18-16.10.07:243][131]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.09.18-16.10.07:243][131]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.09.18-16.10.07:243][131]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.09.18-16.10.07:243][131]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.09.18-16.10.07:243][131]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.09.18-16.10.07:243][131]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.09.18-16.10.07:243][131]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.09.18-16.10.07:243][131]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.09.18-16.10.07:243][131]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.09.18-16.10.07:244][131]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.09.18-16.10.07:245][131]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.09.18-16.10.07:245][131]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.09.18-16.10.07:245][131]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.09.18-16.10.07:245][131]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.09.18-16.10.07:245][131]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.09.18-16.10.07:245][131]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.09.18-16.10.08:160][131]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.09.18-16.10.08:160][131]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.09.18-16.10.08:160][131]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.09.18-16.10.08:160][131]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.09.18-16.10.08:160][131]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.09.18-16.10.08:160][131]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.09.18-16.10.08:160][131]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.09.18-16.10.08:160][131]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.09.18-16.10.08:160][131]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.09.18-16.10.08:160][131]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.09.18-16.10.08:160][131]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.09.18-16.10.08:160][131]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.09.18-16.10.08:160][131]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.09.18-16.10.08:160][131]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.09.18-16.10.08:160][131]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.09.18-16.10.08:160][131]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.09.18-16.10.08:160][131]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.09.18-16.10.08:161][131]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.09.18-16.10.08:161][131]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.09.18-16.10.08:161][131]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.09.18-16.10.08:161][131]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.09.18-16.10.08:161][131]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.09.18-16.10.08:214][131]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.09.18-16.10.08:214][131]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.09.18-16.10.08:215][131]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.09.18-16.10.08:215][131]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.09.18-16.10.08:215][131]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.09.18-16.10.08:215][131]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.09.18-16.10.08:215][131]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.09.18-16.10.08:216][131]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.09.18-16.10.08:216][131]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.09.18-16.10.08:216][131]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.09.18-16.10.08:217][131]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.09.18-16.10.08:218][131]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.09.18-16.10.08:218][131]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.09.18-16.10.08:218][131]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.09.18-16.10.08:218][131]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.09.18-16.10.08:218][131]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.09.18-16.10.08:218][131]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.09.18-16.10.08:218][131]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.09.18-16.10.08:218][131]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.09.18-16.10.08:218][131]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.09.18-16.10.08:218][131]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.09.18-16.10.08:218][131]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.09.18-16.10.08:218][131]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.09.18-16.10.08:218][131]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.09.18-16.10.08:218][131]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.09.18-16.10.08:218][131]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.09.18-16.10.08:218][131]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.09.18-16.10.08:218][131]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.09.18-16.10.08:218][131]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.09.18-16.10.08:219][131]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.09.18-16.10.08:219][131]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.09.18-16.10.08:219][131]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.09.18-16.10.08:225][131]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.09.18-16.10.08:225][131]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.09.18-16.10.08:225][131]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.09.18-16.10.08:225][131]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.09.18-16.10.08:225][131]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.09.18-16.10.08:226][131]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.09.18-16.10.08:226][131]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.09.18-16.10.08:226][131]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.09.18-16.10.08:226][131]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.09.18-16.10.08:226][131]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.09.18-16.10.08:226][131]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.09.18-16.10.08:226][131]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.09.18-16.10.08:226][131]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.09.18-16.10.08:226][131]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.09.18-16.10.08:226][131]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.09.18-16.10.08:226][131]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.09.18-16.10.08:226][131]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.09.18-16.10.08:226][131]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.09.18-16.10.08:232][131]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.09.18-16.10.08:232][131]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.09.18-16.10.08:232][131]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.09.18-16.10.08:232][131]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.09.18-16.10.08:232][131]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.09.18-16.10.08:232][131]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.09.18-16.10.08:233][131]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.09.18-16.10.08:233][131]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.09.18-16.10.08:233][131]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.09.18-16.10.08:233][131]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.09.18-16.10.08:233][131]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.09.18-16.10.08:233][131]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.09.18-16.10.08:235][131]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.09.18-16.10.08:235][131]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.09.18-16.10.08:235][131]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.09.18-16.10.08:235][131]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.09.18-16.10.08:235][131]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.09.18-16.10.08:236][131]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.09.18-16.10.08:236][131]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.09.18-16.10.08:236][131]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.09.18-16.10.08:236][131]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.09.18-16.10.08:236][131]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.09.18-16.10.08:236][131]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.09.18-16.10.08:236][131]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.09.18-16.10.08:236][131]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.09.18-16.10.08:236][131]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.09.18-16.10.08:236][131]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.09.18-16.10.08:236][131]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.09.18-16.10.08:236][131]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.09.18-16.10.08:236][131]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.09.18-16.10.08:236][131]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.09.18-16.10.08:236][131]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.09.18-16.10.08:236][131]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.09.18-16.10.08:237][131]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.09.18-16.10.08:237][131]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.09.18-16.10.08:237][131]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.09.18-16.10.08:237][131]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.09.18-16.10.08:237][131]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.09.18-16.10.08:237][131]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.09.18-16.10.08:237][131]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.09.18-16.10.08:237][131]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.09.18-16.10.08:338][131]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.09.18-16.10.08:438][131]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.09.18-16.10.08:438][131]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.09.18-16.10.08:438][131]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.09.18-16.10.08:438][131]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.09.18-16.10.08:438][131]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.09.18-16.10.08:438][131]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.09.18-16.10.08:438][131]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.09.18-16.10.08:439][131]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.09.18-16.10.08:439][131]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.09.18-16.10.08:439][131]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.09.18-16.10.08:439][131]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.09.18-16.10.08:440][131]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.09.18-16.10.08:441][131]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.09.18-16.10.08:441][131]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.09.18-16.10.08:441][131]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.09.18-16.10.08:441][131]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.09.18-16.10.08:441][131]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.09.18-16.10.08:441][131]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.09.18-16.10.08:443][131]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.09.18-16.10.08:449][131]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.09.18-16.10.08:449][131]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.09.18-16.10.08:449][131]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.09.18-16.10.08:449][131]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.09.18-16.10.08:450][131]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.09.18-16.10.08:450][131]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.09.18-16.10.08:450][131]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.09.18-16.10.08:450][131]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.09.18-16.10.08:450][131]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.09.18-16.10.08:450][131]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.09.18-16.10.08:450][131]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.09.18-16.10.08:450][131]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.09.18-16.10.08:450][131]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.09.18-16.10.08:450][131]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.09.18-16.10.08:450][131]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.09.18-16.10.08:450][131]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.09.18-16.10.08:451][131]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.09.18-16.10.08:451][131]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.09.18-16.10.08:451][131]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.09.18-16.10.08:451][131]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.09.18-16.10.08:453][131]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.09.18-16.10.08:453][131]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.09.18-16.10.08:453][131]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.09.18-16.10.08:453][131]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.09.18-16.10.08:453][131]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.09.18-16.10.08:453][131]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.09.18-16.10.08:453][131]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.09.18-16.10.08:453][131]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.09.18-16.10.08:453][131]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.09.18-16.10.08:453][131]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.09.18-16.10.08:453][131]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.09.18-16.10.08:453][131]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.09.18-16.10.08:453][131]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.09.18-16.10.08:454][131]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.09.18-16.10.08:454][131]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.09.18-16.10.08:454][131]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.09.18-16.10.08:454][131]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.09.18-16.10.08:454][131]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.09.18-16.10.08:490][131]LogDerivedDataCache: Shutdown
+[2019.09.18-16.10.08:490][131]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.09.18-16.10.08:490][131]LogXGEController: Cleaning working directory: C:/Users/Martin Henriquez/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.09.18-16.10.08:491][131]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.09.18-16.10.08:491][131]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.09.18-16.10.08:491][131]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.09.18-16.10.08:491][131]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.09.18-16.10.08:491][131]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.09.18-16.10.08:491][131]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.09.18-16.10.08:491][131]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.09.18-16.10.08:491][131]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.09.18-16.10.08:491][131]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.09.18-16.10.08:491][131]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.09.18-16.10.08:491][131]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.09.18-16.10.08:491][131]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.09.18-16.10.08:491][131]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.09.18-16.10.08:491][131]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.09.18-16.10.08:491][131]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.09.18-16.10.08:491][131]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.09.18-16.10.08:491][131]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.09.18-16.10.08:491][131]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.09.18-16.10.08:491][131]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.09.18-16.10.08:491][131]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.09.18-16.10.08:491][131]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.09.18-16.10.08:491][131]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.09.18-16.10.08:492][131]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.09.18-16.10.08:492][131]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.09.18-16.10.08:493][131]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.09.18-16.10.08:493][131]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.09.18-16.10.08:499][131]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.09.18-16.10.08:499][131]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.09.18-16.10.08:500][131]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.09.18-16.10.08:500][131]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.09.18-16.10.08:500][131]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.09.18-16.10.08:500][131]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.09.18-16.10.08:500][131]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.09.18-16.10.08:500][131]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.09.18-16.10.08:500][131]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.09.18-16.10.08:500][131]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.09.18-16.10.08:500][131]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.09.18-16.10.08:500][131]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.09.18-16.10.08:500][131]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.09.18-16.10.08:500][131]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.09.18-16.10.08:500][131]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.09.18-16.10.08:500][131]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.09.18-16.10.08:500][131]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.09.18-16.10.08:500][131]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.09.18-16.10.08:501][131]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.09.18-16.10.08:501][131]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.09.18-16.10.08:532][131]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.09.18-16.10.08:532][131]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.09.18-16.10.08:532][131]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B933CB911-4E26-33A8-EEDF-5DBA8339F1E4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=823f000446ab6f715148c3b324d13d7e%7C598104fa0dba47c1ae17a98aab473695%7C0cf1aef8-011e-44bb-af91-389a456af066&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.09.18-16.10.08:539][131]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.09.18-16.10.08:540][131]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.09.18-16.10.08:540][131]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.09.18-16.10.08:540][131]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.09.18-16.10.08:540][131]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.09.18-16.10.08:540][131]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.09.18-16.10.08:540][131]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.09.18-16.10.08:540][131]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.09.18-16.10.08:540][131]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.09.18-16.10.08:540][131]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.09.18-16.10.08:540][131]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.09.18-16.10.08:540][131]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.09.18-16.10.08:541][131]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.09.18-16.10.08:541][131]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.09.18-16.10.08:541][131]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.09.18-16.10.08:541][131]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.09.18-16.10.08:541][131]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.09.18-16.10.08:541][131]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.09.18-16.10.08:541][131]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.09.18-16.10.08:541][131]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.09.18-16.10.08:541][131]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.09.18-16.10.08:541][131]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.09.18-16.10.08:541][131]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.09.18-16.10.08:541][131]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.09.18-16.10.08:541][131]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.09.18-16.10.08:541][131]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.09.18-16.10.08:541][131]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.09.18-16.10.08:541][131]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.09.18-16.10.08:541][131]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.09.18-16.10.08:541][131]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.09.18-16.10.08:545][131]LogExit: Exiting.
+[2019.09.18-16.10.08:558][131]Log file closed, 09/18/19 11:10:08
